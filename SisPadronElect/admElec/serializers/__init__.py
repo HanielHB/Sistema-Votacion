@@ -1,0 +1,2 @@
+from .recinto1_serializer import Recinto1Serializer
+from .votante1_serializer import Votante1Serializer

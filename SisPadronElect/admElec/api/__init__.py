@@ -1,0 +1,2 @@
+from .recinto1_viewset import Recinto1ViewSet
+from .votante1_viewset import Votante1ViewSet
